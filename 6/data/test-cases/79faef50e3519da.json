@@ -1,0 +1,100 @@
+{
+  "uid" : "79faef50e3519da",
+  "name" : "test_add_negative",
+  "fullName" : "testproject.test_mymath#test_add_negative",
+  "historyId" : "753cdf21aa3257d3e2249d83346a13e6",
+  "time" : {
+    "start" : 1625651463334,
+    "stop" : 1625651463334,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az83-26"
+  }, {
+    "name" : "thread",
+    "value" : "2813-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "873915a897ff8512",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/5//#testresult/873915a897ff8512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625572406031,
+          "stop" : 1625572406031,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2e6b53d847fc893a",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/4//#testresult/2e6b53d847fc893a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625572339051,
+          "stop" : 1625572339051,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "aa14088372f63415",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/3//#testresult/aa14088372f63415",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625572270037,
+          "stop" : 1625572270037,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2730ee1f8ba1005a",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/2//#testresult/2730ee1f8ba1005a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625571648314,
+          "stop" : 1625571648314,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "79faef50e3519da.json",
+  "parameterValues" : [ ]
+}
