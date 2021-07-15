@@ -1,0 +1,199 @@
+{
+  "uid" : "d32c4e145969397b",
+  "name" : "test_add_string__expect_exception",
+  "fullName" : "testproject.test_mymath#test_add_string__expect_exception",
+  "historyId" : "0e93b819cc2e8121f7281dc8e4eaaf78",
+  "time" : {
+    "start" : 1626323719077,
+    "stop" : 1626323719077,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az39-293"
+  }, {
+    "name" : "thread",
+    "value" : "2768-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 16,
+        "unknown" : 0,
+        "total" : 16
+      },
+      "items" : [ {
+        "uid" : "bb22027d3c667867",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/16//#testresult/bb22027d3c667867",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626088354414,
+          "stop" : 1626088354414,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "5e5251ac414c358e",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/15//#testresult/5e5251ac414c358e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626035481317,
+          "stop" : 1626035481317,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b2bfb851db41081c",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/14//#testresult/b2bfb851db41081c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626028468440,
+          "stop" : 1626028468441,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "e5107d23f47bb02b",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/13//#testresult/e5107d23f47bb02b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626014041974,
+          "stop" : 1626014041974,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "450c76740028c454",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/12//#testresult/450c76740028c454",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626007475567,
+          "stop" : 1626007475568,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "3e337bbc2019d2e",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/11//#testresult/3e337bbc2019d2e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626002646396,
+          "stop" : 1626002646396,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "67ce10d3ee574dd5",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/10//#testresult/67ce10d3ee574dd5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626000361000,
+          "stop" : 1626000361000,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "5ba46e5f9f950aa2",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/9//#testresult/5ba46e5f9f950aa2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625999993544,
+          "stop" : 1625999993545,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "a6990d3816d8630a",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/8//#testresult/a6990d3816d8630a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625823059883,
+          "stop" : 1625823059883,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "9d4d33f088272e37",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/7//#testresult/9d4d33f088272e37",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625726027137,
+          "stop" : 1625726027137,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "53078ec19a6e7cc3",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/6//#testresult/53078ec19a6e7cc3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625651463336,
+          "stop" : 1625651463336,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "71a9658bbd11f140",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/5//#testresult/71a9658bbd11f140",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625572406033,
+          "stop" : 1625572406033,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2100a8385ff4d660",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/4//#testresult/2100a8385ff4d660",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625572339053,
+          "stop" : 1625572339053,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1b155d45654061f8",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/3//#testresult/1b155d45654061f8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625572270038,
+          "stop" : 1625572270038,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "98999e75372acf15",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/2//#testresult/98999e75372acf15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625571648315,
+          "stop" : 1625571648316,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "d32c4e145969397b.json",
+  "parameterValues" : [ ]
+}
