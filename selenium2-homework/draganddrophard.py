@@ -17,6 +17,5 @@ try:
 
     for item in items:
         driver.execute_script(js_drag_drop, item, target)
-
 finally:
     driver.close()
