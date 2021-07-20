@@ -17,12 +17,11 @@ driver.find_element_by_id('example-input-date').send_keys(nowutc.strftime("00%Y/
 #Date/Time:
 driver.find_element_by_id('example-input-date-time').send_keys(nowutc.strftime('%Y/%m/%d/%X'))
 
-#Date/Time local: - ##?
-##driver.find_element_by_id('datetime-local').send_keys(nowutc.strftime('%Y/%m/%d'))
-##driver.find_element_by_id('datetime-local').send_keys(nowutc.strftime('%x'))
+#Date/Time local:
+driver.find_element_by_id('example-input-date-time-local').send_keys(nowutc.strftime('00%Y-%m-%d-%x'))
 
 #Month: - ## Az évet beírja a hónapot nem - ???
-##driver.find_element_by_id('example-input-month').send_keys(nowutc.strftime('%Y. %B'))
+driver.find_element_by_xpath('//*[@id="example-input-month"]').send_keys(nowutc.strftime('%Y. %B'))
 
 #Week:
 driver.find_element_by_id('example-input-week').send_keys(nowutc.strftime('%U'), nowutc.strftime('%Y'))
