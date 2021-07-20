@@ -1,0 +1,235 @@
+{
+  "uid" : "fe4ec621099bcc66",
+  "name" : "test_add_negative",
+  "fullName" : "testproject.test_mymath#test_add_negative",
+  "historyId" : "753cdf21aa3257d3e2249d83346a13e6",
+  "time" : {
+    "start" : 1626770749489,
+    "stop" : 1626770749489,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az39-431"
+  }, {
+    "name" : "thread",
+    "value" : "2798-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 20,
+        "unknown" : 0,
+        "total" : 20
+      },
+      "items" : [ {
+        "uid" : "b2143c364e82538d",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/20//#testresult/b2143c364e82538d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626770656580,
+          "stop" : 1626770656580,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "6b45cf024625007b",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/19//#testresult/6b45cf024625007b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626421956974,
+          "stop" : 1626421956974,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "9e2984b56b183622",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/18//#testresult/9e2984b56b183622",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626323887956,
+          "stop" : 1626323887956,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f66f4305b243970e",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/17//#testresult/f66f4305b243970e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626323719075,
+          "stop" : 1626323719075,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1b1d74aecfba25c8",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/16//#testresult/1b1d74aecfba25c8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626088354412,
+          "stop" : 1626088354412,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "4b4a8cc5139eab84",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/15//#testresult/4b4a8cc5139eab84",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626035481315,
+          "stop" : 1626035481316,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "44afd9893830aa53",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/14//#testresult/44afd9893830aa53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626028468439,
+          "stop" : 1626028468439,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a8d75c19dd7f4e5",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/13//#testresult/a8d75c19dd7f4e5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626014041972,
+          "stop" : 1626014041973,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "9d008043d4831061",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/12//#testresult/9d008043d4831061",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626007475566,
+          "stop" : 1626007475566,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "62a6221e71ccd93b",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/11//#testresult/62a6221e71ccd93b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626002646394,
+          "stop" : 1626002646394,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "f102131268e74bf9",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/10//#testresult/f102131268e74bf9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626000360998,
+          "stop" : 1626000360998,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "d4b8e13ba2986476",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/9//#testresult/d4b8e13ba2986476",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625999993543,
+          "stop" : 1625999993543,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "972e7aed82a220ce",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/8//#testresult/972e7aed82a220ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625823059881,
+          "stop" : 1625823059882,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "792b8032f961ce43",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/7//#testresult/792b8032f961ce43",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625726027136,
+          "stop" : 1625726027136,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "79faef50e3519da",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/6//#testresult/79faef50e3519da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625651463334,
+          "stop" : 1625651463334,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "873915a897ff8512",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/5//#testresult/873915a897ff8512",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625572406031,
+          "stop" : 1625572406031,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2e6b53d847fc893a",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/4//#testresult/2e6b53d847fc893a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625572339051,
+          "stop" : 1625572339051,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "aa14088372f63415",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/3//#testresult/aa14088372f63415",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625572270037,
+          "stop" : 1625572270037,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2730ee1f8ba1005a",
+        "reportUrl" : "https://dobosbrigi91.github.io/selenium-py-peldatar/2//#testresult/2730ee1f8ba1005a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625571648314,
+          "stop" : 1625571648314,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "fe4ec621099bcc66.json",
+  "parameterValues" : [ ]
+}
